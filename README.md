@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/GMXMx1D/fake.png" alt="fake" border="0">
+<img src="https://telegra.ph/file/6c6e3051af586dedf9502.jpg" alt="fake" border="0">
 
-# RyuuOfficial
+# ZetsV2
 
 >
 >
@@ -10,22 +10,22 @@
 <p align="center">
   <a href="https://github.com/RyuuOfficial"><img title="Author" src="https://img.shields.io/badge/Author-Ryuu-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6282293271747">WHATSAPP</a>
+  <a href="https://wa.me/6281252848955">WHATSAPP</a>
 </h4>
 </p>
 
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> git clone https://github.com/Nando35/zets2
+> cd zets2
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> git clone https://github.com/Nando35/zets2
+> cd zets2
 > npm i
 > npm start/node main.js
 ```
