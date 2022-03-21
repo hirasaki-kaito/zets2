@@ -65,10 +65,10 @@ const tebakjenaka = JSON.parse(fs.readFileSync('./lib/tebakjenaka.json'))
 
 banChats = true
 offline = false
-targetpc = '6282293271747'
-owner = '6282293271747' //6285751056816
-fake = '*Created By KontoloOfficial*'
-botname = 'GtuBot'
+targetpc = '6281553838607'
+owner = '6281553838607' //6285751056816
+fake = '*Created By @Sanzz_*'
+botname = 'SanzBot'
 simbol = '>'
 numbernye = '0'
 waktu = '-'
@@ -857,7 +857,7 @@ break
             });
             break
             case 'donasi':
-            reply('donasi om buat beli jajan 081252848955')
+            reply('donasi om buat beli jajan 081553838607')
             break
     case 'igstory': 
             if(!q) return reply('Usernamenya?')
